@@ -105,11 +105,30 @@ require treatment disparity?</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(54).pdf" style="text-decoration:none;">Incorporating Priors with Feature Attribution on Text Classification </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(55).pdf" style="text-decoration:none;">Anti-Discrimination Learning: from Association to Causation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(55).pdf" style="text-decoration:none;">Fairness in Machine Learning:
+Limitations and Opportunities</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(56).pdf" style="text-decoration:none;">Verifying Individual Fairness in Machine Learning Models </a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(57).pdf" style="text-decoration:none;">Fairness Definitions Explained</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(58).pdf" style="text-decoration:none;">Anti-discrimination learning: a causal modeling-based framework</a></li>
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(59).pdf" style="text-decoration:none;">Fairness in Algorithmic Decision-Making:
+Applications in Multi-Winner Voting, Machine Learning, and Recommender Systems</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(60).pdf" style="text-decoration:none;">Towards Formal Fairness in Machine Learning </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(61).pdf" style="text-decoration:none;">Do the Machine Learning Models on a Crowd Sourced Platform Exhibit Bias? An Empirical Study on Model Fairness</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(62).pdf" style="text-decoration:none;">On Fairness and Calibration</a></li>
+      
+   
+   
+   
+   
+   
+   
+   
+   
     </ul>
