@@ -123,12 +123,18 @@ Applications in Multi-Winner Voting, Machine Learning, and Recommender Systems</
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(62).pdf" style="text-decoration:none;">On Fairness and Calibration</a></li>
       
+<li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(63).pdf" style="text-decoration:none;">Fairness and Discrimination in Mechanism Design and Machine Learning</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(64).pdf" style="text-decoration:none;">Fairness-Aware Machine Learning:
+An Extensive Overview </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(65).pdf" style="text-decoration:none;">Learning Fair Representations</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(66).pdf" style="text-decoration:none;">Training individually fair ML models with Sensitive Subspace Robustness</a></li>
+      
+<li><a target="_blank" href="https://github.com/manjunath5496/Fairness-DL-Papers/blob/master/fr(67).pdf" style="text-decoration:none;">Algorithmic Fairness from a Non-ideal Perspective</a></li>  
+      
    
-   
-   
-   
-   
-   
-   
+    
    
 </ul>
